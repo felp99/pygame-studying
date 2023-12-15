@@ -12,19 +12,13 @@ This Pygame project demonstrates a simple particle simulation with interactive f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pygame-particle-simulation.git
+    git clone https://github.com/felp99/pygame-studying.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd pygame-particle-simulation
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
+    cd 01_particules_with_forces
     ```
 
 ## Usage
